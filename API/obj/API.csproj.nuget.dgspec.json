@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JWT\\JwtAuth\\API\\API.csproj": {}
+    "D:\\Angular\\examples\\Ng17Dotnet8RoleBaseAuthJWT\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\JWT\\JwtAuth\\API\\API.csproj": {
+    "D:\\Angular\\examples\\Ng17Dotnet8RoleBaseAuthJWT\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JWT\\JwtAuth\\API\\API.csproj",
+        "projectUniqueName": "D:\\Angular\\examples\\Ng17Dotnet8RoleBaseAuthJWT\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\JWT\\JwtAuth\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\pushpa\\.nuget\\packages\\",
-        "outputPath": "D:\\JWT\\JwtAuth\\API\\obj\\",
+        "projectPath": "D:\\Angular\\examples\\Ng17Dotnet8RoleBaseAuthJWT\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\dotnetbillioner\\.nuget\\packages\\",
+        "outputPath": "D:\\Angular\\examples\\Ng17Dotnet8RoleBaseAuthJWT\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pushpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dotnetbillioner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
